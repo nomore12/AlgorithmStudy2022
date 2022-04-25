@@ -26,13 +26,13 @@
 ## 커리큘럼
 |번호|날짜|주제|현황|
 |--|--|--|--|
-|1|2022.04.18|OT, [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|`완료`|
-|2|2022.04.20|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862), [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840), [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |`진행중`|
+|1|2022.04.20|OT, [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|`완료`|
+|2|2022.04.27|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862), [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840), [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |`진행중`|
 
 ## 풀이
 |날짜|문제|코드|
 |--|--|--|
-|2022.04.20|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)||
-|2022.04.20|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)||
-|2022.04.20|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)||
-|2022.04.20|[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)||
+|2022.04.27|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)||
+|2022.04.27|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)||
+|2022.04.27|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)||
+|2022.04.27|[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)||
