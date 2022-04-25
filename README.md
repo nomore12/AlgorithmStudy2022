@@ -21,6 +21,7 @@
 
 ## 파일 구조
 * 플랫폼 이름 / 자신의 프로필 ID / 문제 번호.swift 원칙
+  * `ex)Programmers/herohjk/42840.swift`
 * 문제번호
   * 프로그래머스: URL 끝에 숫자 (https://programmers.co.kr/learn/courses/30/lessons/42840 -> 42840)
 
