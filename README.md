@@ -30,7 +30,7 @@
 |2|2022.04.20|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862), [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840), [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |`진행중`|
 
 ## 풀이
-|날짜|문제|푼사람|
+|날짜|문제|코드|
 |--|--|--|
 |2022.04.20|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)||
 |2022.04.20|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)||
