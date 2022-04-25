@@ -14,7 +14,7 @@ PR은 Pull - Request의 줄임말로, github을 비롯한 많은 git Platform에
 
 대략적으로 github의 Repository의 구성이 이렇다고 치면..
 
-<img src="Repository.png" height="400"/>
+<img src="Repository.png" height="300"/>
 
 수정할 내용이 생겨서 기여자가 수정을 하게 될 때, 리뷰를 받고, 리뷰에 대해 승인을 받게 되면 그때 코드가 합쳐지는 방식입니다.
 (요청 - 승인 없이 기여자 독단적으로 Repository의 코드를 수정한다면, 관리가 힘들게 되겠죠?)
@@ -31,7 +31,7 @@ PR은 Pull - Request의 줄임말로, github을 비롯한 많은 git Platform에
 
 코드에 대한 기록은 다음과 같이 진행합니다.
 
-![](PR_Routine.png)
+<img src="PR_Routine.png" height="300"/>
 
 **코드 수정 후 원본 저장소에 합쳐지기 까지..**
 
