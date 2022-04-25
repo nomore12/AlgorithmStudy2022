@@ -3,7 +3,7 @@
 ## 서론
 우리는 다음과 같은 방식으로 Repository를 관리할 예정입니다.
 
-![](repositoryFeature.png)
+<img src="repositoryFeature.png" height="400"/>
 
 이런 방식으로 사용하는 이유는 몇가지가 있습니다만, *PR을 활용하여 서로에 대한 코드를 리뷰해주는것이 가장 큰 목적*입니다.
 
@@ -14,7 +14,7 @@ PR은 Pull - Request의 줄임말로, github을 비롯한 많은 git Platform에
 
 대략적으로 github의 Repository의 구성이 이렇다고 치면..
 
-![](Repository.png)
+<img src="Repository.png" height="400"/>
 
 수정할 내용이 생겨서 기여자가 수정을 하게 될 때, 리뷰를 받고, 리뷰에 대해 승인을 받게 되면 그때 코드가 합쳐지는 방식입니다.
 (요청 - 승인 없이 기여자 독단적으로 Repository의 코드를 수정한다면, 관리가 힘들게 되겠죠?)
