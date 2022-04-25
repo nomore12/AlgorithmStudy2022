@@ -32,7 +32,7 @@
 ## 풀이
 |날짜|문제|푼사람|
 |--|--|--|
-|2022.04.20|두 개 뽑아서 더하기||
-|2022.04.20|체육복||
-|2022.04.20|모의고사||
-|2022.04.20|K번째 수||
+|2022.04.20|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)||
+|2022.04.20|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)||
+|2022.04.20|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)||
+|2022.04.20|[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)||
