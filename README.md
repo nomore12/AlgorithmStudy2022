@@ -3,7 +3,6 @@
 * [HEROHJK](https://github.com/herohjk)
 * [HYUNJUNG AN](https://github.com/hyunjung-ann)
 * [KWios0101](https://github.com/KiWooPark)
-* [kihyunJ](https://github.com/kihyunJ)
 
 ## 기간
 2022.04.20 ~ 진행중
