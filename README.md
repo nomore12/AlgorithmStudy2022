@@ -33,7 +33,7 @@
 ## 풀이
 |날짜|문제|코드|
 |--|--|--|
-|2022.04.20|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)||
-|2022.04.27|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)||
-|2022.04.27|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)||
-|2022.04.27|[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)||
+|2022.04.20|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[HEROHJK](Programmers/HEROHJK/68644.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/68644.swift)|
+|2022.04.27|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[HEROHJK](Programmers/HEROHJK/42862.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42862.swift)|
+|2022.04.27|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[HEROHJK](Programmers/HEROHJK/42840.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42840.swift)|
+|2022.04.27|[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[HEROHJK](Programmers/HEROHJK/42748.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42748.swift)|
