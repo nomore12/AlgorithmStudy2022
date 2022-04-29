@@ -28,12 +28,13 @@
 |번호|날짜|주제|현황|
 |--|--|--|--|
 |1|2022.04.20|OT, [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|`완료`|
-|2|2022.04.27|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862), [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840), [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |`진행중`|
+|2|2022.04.27|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862), [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840), [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |`완료`|
+|3|2022.05.04|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484), [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410), [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301), [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256), [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|`진행중`|
 
 ## 풀이
 |날짜|문제|코드|
 |--|--|--|
-|2022.04.20|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[HEROHJK](Programmers/HEROHJK/68644.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/68644.swift)|
-|2022.04.27|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[HEROHJK](Programmers/HEROHJK/42862.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42862.swift)|
-|2022.04.27|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[HEROHJK](Programmers/HEROHJK/42840.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42840.swift)|
-|2022.04.27|[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[HEROHJK](Programmers/HEROHJK/42748.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42748.swift)|
+|2022.04.20|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[HEROHJK](Programmers/HEROHJK/68644.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/68644.swift)<br/>[HYUNJUNG_AN](Programmers/HYUNJUNG_AN/68644.swift)|
+|2022.04.27|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[HEROHJK](Programmers/HEROHJK/42862.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42862.swift)<br/>[HYUNJUNG_AN](Programmers/HYUNJUNG_AN/42862.swift)|
+|2022.04.27|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[HEROHJK](Programmers/HEROHJK/42840.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42840.swift)<br/>[HYUNJUNG_AN](Programmers/HYUNJUNG_AN/42840.swift)|
+|2022.04.27|[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[HEROHJK](Programmers/HEROHJK/42748.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42748.swift)<br/>[HYUNJUNG_AN](Programmers/HYUNJUNG_AN/42748.swift)|
