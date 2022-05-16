@@ -24,12 +24,13 @@
   * 프로그래머스: URL 끝에 숫자 (https://programmers.co.kr/learn/courses/30/lessons/42840 -> 42840)
 
 ## 커리큘럼
-|번호|날짜|주제|현황|
+|주차|날짜|주제|현황|
 |--|--|--|--|
 |1|2022.04.20|OT<br/>[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|`완료`|
 |2|2022.04.27|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)<br/>[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)<br/>[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) |`완료`|
 |3|2022.05.08|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)<br/>[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)<br/>[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)<br/>[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)<br/>[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|`완료`|
-|4|2022.05.15|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)<br/>[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)<br/>[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)<br/>[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)<br/>[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)<br/>[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)<br/>[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)<br/>[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)<br/>[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)<br/>[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)<br/>|`진행중`|
+|4|2022.05.15|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)<br/>[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)<br/>[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)<br/>[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)<br/>[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)<br/>[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)<br/>[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)<br/>[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)<br/>[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)<br/>[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)<br/>|`완료`|
+|5|2022.05.22|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)<br/>[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)<br/>[[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)<br/>[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)<br/>[[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)<br/>[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)<br/>[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)<br/>[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)<br/>[문자열 내 py와 y의 개수](12916)<br/>[문자열 내림차순으로 배치하기](12917)<br/>|`진행중`|
 
 ## 풀이
 |날짜|문제|코드|
@@ -38,8 +39,18 @@
 |2022.04.27|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[HEROHJK](Programmers/HEROHJK/42862.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42862.swift)|
 |2022.04.27|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[HEROHJK](Programmers/HEROHJK/42840.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42840.swift)|
 |2022.04.27|[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[HEROHJK](Programmers/HEROHJK/42748.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42748.swift)|
-|2022.05.08|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[HEROHJK](Programmers/HEROHJK/77484.swift)<br/>[KWOS0101](Programmers/KWiOS0101/77484.swift)|
-|2022.05.08|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[HEROHJK](Programmers/HEROHJK/72410.swift)<br/>[KWOS0101](Programmers/KWiOS0101/72410.swift)|
-|2022.05.08|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[HEROHJK](Programmers/HEROHJK/81301.swift)<br/>[KWOS0101](Programmers/KWiOS0101/81301.swift)|
-|2022.05.08|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[HEROHJK](Programmers/HEROHJK/67256.swift)<br/>[KWOS0101](Programmers/KWiOS0101/67256.swift)|
-|2022.05.08|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[HEROHJK](Programmers/HEROHJK/64061.swift)<br/>[KWOS0101](Programmers/KWiOS0101/64061.swift)|
+|2022.05.08|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[HEROHJK](Programmers/HEROHJK/77484.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/77484.swift)|
+|2022.05.08|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[HEROHJK](Programmers/HEROHJK/72410.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/72410.swift)|
+|2022.05.08|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[HEROHJK](Programmers/HEROHJK/81301.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/81301.swift)|
+|2022.05.08|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[HEROHJK](Programmers/HEROHJK/67256.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/67256.swift)|
+|2022.05.08|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[HEROHJK](Programmers/HEROHJK/64061.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/64061.swift)|
+|2022.05.15|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[HEROHJK](Programmers/HEROHJK/.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/.swift)|
+|2022.05.15|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[HEROHJK](Programmers/HEROHJK/76501.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/76501.swift)|
+|2022.05.15|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[HEROHJK](Programmers/HEROHJK/70128.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/70128.swift)|
+|2022.05.15|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[HEROHJK](Programmers/HEROHJK/12977.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/12977.swift)|
+|2022.05.15|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[HEROHJK](Programmers/HEROHJK/42889.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/42889.swift)|
+|2022.05.15|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[HEROHJK](Programmers/HEROHJK/77884.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/77884.swift)|
+|2022.05.15|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[HEROHJK](Programmers/HEROHJK/68935.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/68935.swift)|
+|2022.05.15|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[HEROHJK](Programmers/HEROHJK/12982.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/12982.swift)|
+|2022.05.15|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[HEROHJK](Programmers/HEROHJK/12901.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/12901.swift)|
+|2022.05.15|[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)|[HEROHJK](Programmers/HEROHJK/86491.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/86491.swift)|
