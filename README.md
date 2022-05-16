@@ -2,6 +2,7 @@
 ## 참여자
 * [HEROHJK](https://github.com/herohjk)
 * [KWios0101](https://github.com/KiWooPark)
+* [nomore12](https://github.com/nomore12)
 
 ## 기간
 2022.04.20 ~ 진행중
@@ -11,9 +12,10 @@
 * [프로그래머스](https://programmers.co.kr/learn/challenges)
 
 ## 계획
-* 매주 수요일 저녁 9시 디스코드로 진행
+* 매주 일요일 오후 4시 디스코드로 진행
 * 프로그래머스 레벨 1 + 여러유형 4문제씩 풀어와서 스터디 때 풀이방법 및 이론에 대해서 돌아가면서 설명하는 방식
   * 다만 한번에 여러 유형을 공부하는데 비용이 제법 생기므로, 공부 방식은 계속 협의 할 예정
+  * 현재는 1단계를 마무리할 때 까지 주마다 10문제씩 풀어오기로 협의
 * 푼 문제를 swift file로 옮겨서 깃허브에 pull request 하는 방향
   * PR은 [Guide](repositoryGuide/readme.md) 참조
 
