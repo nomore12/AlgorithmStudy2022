@@ -52,7 +52,7 @@
 |2022.05.08|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[HEROHJK](Programmers/HEROHJK/81301.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/81301.swift)|
 |2022.05.08|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[HEROHJK](Programmers/HEROHJK/67256.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/67256.swift)|
 |2022.05.08|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[HEROHJK](Programmers/HEROHJK/64061.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/64061.swift)|
-|2022.05.15|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[HEROHJK](Programmers/HEROHJK/.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/.swift)|
+|2022.05.15|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[HEROHJK](Programmers/HEROHJK/86051.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/86051.swift)|
 |2022.05.15|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[HEROHJK](Programmers/HEROHJK/76501.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/76501.swift)|
 |2022.05.15|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[HEROHJK](Programmers/HEROHJK/70128.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/70128.swift)|
 |2022.05.15|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[HEROHJK](Programmers/HEROHJK/12977.swift)<br/>[KWiOS0101](Programmers/KWiOS0101/12977.swift)|
