@@ -1,7 +1,7 @@
 function solution(arr) {
-  if (arr.length === 1) return -1;
-  var answer = [];
-  return answer;
+  const index = arr.indexOf(Math.min(...arr));
+  arr.splice(index, 1);
+  return arr.length === 0 ? [-1] : arr;
 }
 
 console.log(solution([4,3,2,1]))

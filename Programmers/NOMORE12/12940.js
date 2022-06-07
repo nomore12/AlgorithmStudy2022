@@ -1,15 +1,11 @@
 function solution(n, m) {
-  var answer = [];
+  const result = upFunc(n, m);
 
-  const up = m % n === 0 ? m : m * n;
-  let down = 1;
-  if (m % n === 0) {
-    down = n;
-  } else {
-    
-  }
+  function upFunc(a, b) {
+    return (b === 0) ? a : upFunc(b, a % b);
+  };
 
-  return m;
+  return [result, (n * m) / result];
 }
 
 console.log(solution(2, 5));
