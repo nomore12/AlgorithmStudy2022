@@ -27,8 +27,8 @@ function bicNumber(arr1, arr2) {
   // result = result + (m - count) * second;
 
   // 다시 그냥 풀기
-  let multi = k;
-  let iter = Math.ceil(m / (k + 1));
+  let multi = k; // 가장 큰 수를 곱하는 횟수
+  let iter = Math.ceil(m / (k + 1)); // 반복 횟수
   // 반복문
   // for (let i = 0; i < iter; i++) {
   //   if ( m % (multi + 1) !== 0 && i === iter - 1) {
@@ -39,10 +39,15 @@ function bicNumber(arr1, arr2) {
   // }
 
   // 이취코와 비슷한 방법
+  // 가장 큰 수와 두 번째로 큰 수를 반복하는 횟수를 구하면 반복문을 사용하지 않아도 답을 구할 수 있었다.
+  // 반복 횟수가 딱 떨어지지 않을경우
   if (m % (k + 1) !== 0) {
-    const divider = m % (k + 1);
-    result = (first * multi + second) * (iter - 1) + first * divider;
-  } else {
+    // (가장 큰 수 * k + 두 번째로 큰 수) * 반복 횟수 + 가장 큰 수 * 남아있는 횟수(?)
+    result = (first * multi + second) * (iter - 1) + first * m % (k + 1);
+  }
+  // 반복 횟수가 딱 떨어지는 경우
+  else {
+    // (가장 큰 수 * k + 두 번째로 큰 수) * 반복 횟수
     result = (first * multi + second) * iter;
   }
 
@@ -59,7 +64,9 @@ console.log(bicNumber([5, 8, 3], [2, 4, 5, 4, 6]))
 function numberCardGame(m, n, data) {
   let number = 10001;
   data.forEach((item) => {
+    // 반복문을 돌며 행의 가장 작은 수를 찾는다.
     const arr = item.sort((pre, cur) => pre > cur ? 1 : -1);
+    // 이전에 저장해놓은 가장 작은수와 현재 행의 가장 작은 수를 비교하여 근 수를 찾는다.
     number = number === 0 ? arr[0] : number < arr[0] ? arr[0] : number;
   })
   return number;
@@ -105,4 +112,3 @@ function toNumberOne(n, k) {
 // }
 
 // console.log(toNumberOne(25, 5));
-
