@@ -54,7 +54,7 @@ function bicNumber(arr1, arr2) {
   return result;
 }
 
-console.log(bicNumber([5, 8, 3], [2, 4, 5, 4, 6]))
+console.log(bicNumber([5, 9, 3], [2, 4, 5, 4, 6]))
 
 /**
  * -----------------------------------------------------------------------------
