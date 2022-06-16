@@ -29,6 +29,8 @@
   * `ex)Programmers/herohjk/42840.swift`
 * 문제번호
   * 프로그래머스: URL 끝에 숫자 (https://programmers.co.kr/learn/courses/30/lessons/42840 -> 42840)
+* 책의 경우 Book / 자신의 프로필 ID / ChapterXX.md 원칙
+  * `ex)Book/herohjk/Chapter03.md`
 
 ## 커리큘럼
 |주차|날짜|주제|현황|
